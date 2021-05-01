@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pano", "Pano\Pano.csproj", "{CD4CBD89-695E-483A-BAA5-789AB3A3E00C}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "LCD Pano Setup", "LCD Pano Setup\LCD Pano Setup.isproj", "{D50E4328-B19F-4568-BCC8-BB42000D74A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD4CBD89-695E-483A-BAA5-789AB3A3E00C}.CD_ROM|x86.ActiveCfg = Release|x86
+		{CD4CBD89-695E-483A-BAA5-789AB3A3E00C}.CD_ROM|x86.Build.0 = Release|x86
+		{CD4CBD89-695E-483A-BAA5-789AB3A3E00C}.Debug|x86.ActiveCfg = Debug|x86
+		{CD4CBD89-695E-483A-BAA5-789AB3A3E00C}.Debug|x86.Build.0 = Debug|x86
+		{CD4CBD89-695E-483A-BAA5-789AB3A3E00C}.DVD-5|x86.ActiveCfg = Debug|x86
+		{CD4CBD89-695E-483A-BAA5-789AB3A3E00C}.DVD-5|x86.Build.0 = Debug|x86
+		{CD4CBD89-695E-483A-BAA5-789AB3A3E00C}.Release|x86.ActiveCfg = Release|x86
+		{CD4CBD89-695E-483A-BAA5-789AB3A3E00C}.Release|x86.Build.0 = Release|x86
+		{CD4CBD89-695E-483A-BAA5-789AB3A3E00C}.SingleImage|x86.ActiveCfg = Release|x86
+		{CD4CBD89-695E-483A-BAA5-789AB3A3E00C}.SingleImage|x86.Build.0 = Release|x86
+		{D50E4328-B19F-4568-BCC8-BB42000D74A0}.CD_ROM|x86.ActiveCfg = CD_ROM
+		{D50E4328-B19F-4568-BCC8-BB42000D74A0}.CD_ROM|x86.Build.0 = CD_ROM
+		{D50E4328-B19F-4568-BCC8-BB42000D74A0}.Debug|x86.ActiveCfg = DVD-5
+		{D50E4328-B19F-4568-BCC8-BB42000D74A0}.Debug|x86.Build.0 = DVD-5
+		{D50E4328-B19F-4568-BCC8-BB42000D74A0}.DVD-5|x86.ActiveCfg = DVD-5
+		{D50E4328-B19F-4568-BCC8-BB42000D74A0}.DVD-5|x86.Build.0 = DVD-5
+		{D50E4328-B19F-4568-BCC8-BB42000D74A0}.Release|x86.ActiveCfg = SingleImage
+		{D50E4328-B19F-4568-BCC8-BB42000D74A0}.Release|x86.Build.0 = SingleImage
+		{D50E4328-B19F-4568-BCC8-BB42000D74A0}.SingleImage|x86.ActiveCfg = SingleImage
+		{D50E4328-B19F-4568-BCC8-BB42000D74A0}.SingleImage|x86.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

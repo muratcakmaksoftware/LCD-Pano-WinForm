@@ -1,0 +1,377 @@
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\bin\Release\Pano.exe
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\bin\Release\Pano.exe
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\RexLond\Desktop\dikey\PanoNew\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\PanoNew\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+E:\Pano\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+E:\Pano\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+E:\Pano\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+E:\Pano\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+E:\Pano\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+E:\Pano\Pano\Pano\obj\x86\Release\Pano.exe
+E:\Pano\Pano\Pano\obj\x86\Release\Pano.pdb
+E:\Pano\Pano\Pano\bin\Release\Pano.exe
+E:\Pano\Pano\Pano\bin\Release\Pano.pdb
+E:\Pano\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+E:\Pano\Pano\Pano\bin\Release\Interop.WMPLib.dll
+E:\Pano\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+E:\Pano\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+E:\Pano\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+E:\Pano\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+E:\Pano\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+E:\Pano\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+E:\Pano\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\bin\Release\Pano.exe
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\Ogr00\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\bin\Release\Pano.exe
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\New-Computer\Desktop\Pano\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe.config
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\bin\Release\System.Data.SQLite.dll
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\New-Computer\Desktop\cevrilmis SQLİTE\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe.config
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\bin\Release\System.Data.SQLite.dll
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\New-Computer\Desktop\SQLİTE Veri Tabanı Pano\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+F:\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe.config
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.exe
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.pdb
+F:\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe
+F:\Pano Sqlite\Pano\Pano\bin\Release\Pano.pdb
+F:\Pano Sqlite\Pano\Pano\bin\Release\System.Data.SQLite.dll
+F:\Pano Sqlite\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+F:\Pano Sqlite\Pano\Pano\bin\Release\Interop.WMPLib.dll
+F:\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+F:\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+F:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe.config
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+H:\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe.config
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.exe
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.pdb
+H:\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe
+H:\Pano Sqlite\Pano\Pano\bin\Release\Pano.pdb
+H:\Pano Sqlite\Pano\Pano\bin\Release\System.Data.SQLite.dll
+H:\Pano Sqlite\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+H:\Pano Sqlite\Pano\Pano\bin\Release\Interop.WMPLib.dll
+H:\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+H:\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+H:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+D:\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe.config
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.exe
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.pdb
+D:\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe
+D:\Pano Sqlite\Pano\Pano\bin\Release\Pano.pdb
+D:\Pano Sqlite\Pano\Pano\bin\Release\System.Data.SQLite.dll
+D:\Pano Sqlite\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+D:\Pano Sqlite\Pano\Pano\bin\Release\Interop.WMPLib.dll
+D:\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+D:\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+D:\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe.config
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\bin\Release\Pano.exe
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\bin\Release\System.Data.SQLite.dll
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\Ogr00\Desktop\Pano Sqlite\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\bin\Release\Pano.exe.config
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\bin\Release\Pano.exe
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\New-Computer\Desktop\Lcd Pano SQLİTE Setuplandırılmış proje\Pano Sqlite Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.exe.config
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.exe
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.exe.config
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.exe
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\ogr\Desktop\lcd pano excel\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.exe.config
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.exe
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\lcd pano excel2\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.LocalLisansSahte.resources
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.exe.config
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.exe
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.LocalLisansSahte.resources
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\Programmer\Desktop\lcd pano excel3\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.exe.config
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.exe
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.LocalLisansSahte.resources
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.exe.config
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.ResolveComReference.cache
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.exe
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.pdb
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.exe
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Pano.pdb
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\Interop.WMPLib.dll
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Ayarlar.resources
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Form1.resources
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.LocalLisansSahte.resources
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Properties.Resources.resources
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.Resource1.resources
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\PROJELERİM\lcd pano excel4\LCD Pano\Pano Orjinal\Pano\Pano\obj\x86\Release\Pano.csprojResolveAssemblyReference.cache
